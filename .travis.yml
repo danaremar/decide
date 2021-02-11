@@ -14,9 +14,9 @@ install:
 - pip install -r requirements.txt
 - pip install codacy-coverage
 script:
-- cd decide
-- python ./manage.py test
-- coverage run --branch --source=. ./manage.py test --keepdb --with-xunit
+  - cd decide
+  - sudo apt-get install firefox
+  - cp travis_local_settings.py local_settings.py
 branches:
   only:
   - master
