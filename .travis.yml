@@ -22,7 +22,7 @@ branches:
   - master
 deploy:
   provider: heroku
-  app: egg-dan3
+  app: egc-dan3
   strategy: git
   api_key:
     secure: kwBZBCzY018yFwQ1+njUnApacNbgvMu+cUKY7Ozv0On4zyRiBGecYERYYezKGlOp1jrdZl5JEndobEqS9faQ7Wx6rWL12SMZuPgX0Mpb0FFckJF9POsVgFpx3j5ktB/g+auPt4/3PABL72A8qLAh6mF9cBme9U7Vm2cF/Ljq+1tZdzfSuMB5PUg+GnPR6RFrxQfppVZNJpeZCdt0Y+Utn3gjej1ME3sKibwVAwv2Y2Bxdlho/1/4C+Yzse9kZL5b3KoMfk8PFo9TcWxGixFVJNOalNRxBdh8cS6UepirGd9D7f4eTZbSgSt/z46tI7auTGdMboZJcPShcS1qjTchrkFfwXWSqPj2gDv6FA564R+48EUopISmFeZTTf+wdLn1C2SaTheHCyo/g8L7d3gyhIpMh9uaCgtxA86Z4JCg06t/5Rws2qJN9Y2Su6tcRUl2BMtuYnWI6RS33Hsd7wU2EDur9x8y/R7I+MB057KHtpNynDASf+fYTrilV4PdXxEipi7Z7D1wi1M5f4XINdoRv5kqKF9e6TIMMwZFFYmkK59xRX/B7hPuMxt48GHo5Ou7YzrYSp2JMcMjfF+GFZi497lovSFt9Uipj8wJbVqmR4snOAFzlA0I+FVrYdc/KCUlbkKyiwyA6VvZx9UAZ/ayG0L4ZaqYzAInxxnjSs39V/w=
